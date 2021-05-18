@@ -263,7 +263,7 @@ about us sec css
 #about_us .video_area::before {
     content: "";
     background-image: url('assets/img/video_side_benn.png');
-    left: -35%;
+    left: -32%;
     width: 351px;
     background-repeat: no-repeat;
     position: absolute;
@@ -279,7 +279,6 @@ about us sec css
     border-radius: 50%;
     overflow: hidden;
     position: relative;
-    outline: 15px solid #fdf6ee;
 }
 
 #about_us .play_btn {
